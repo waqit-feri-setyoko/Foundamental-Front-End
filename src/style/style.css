@@ -1,0 +1,11 @@
+body{
+    background-color: gray;
+}
+
+header{
+    width: 1200px;
+}
+main{
+    width: 1200px;
+    background-color: white;
+}
